@@ -1,6 +1,6 @@
-FROM ubuntu:xenial-20200706
+FROM ubuntu:xenial-20200807
 
-LABEL name="nmoeini/node:12-xenial-20200706" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.0"
+LABEL name="nmoeini/node:12-xenial-20200807" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.1"
 
 ARG DEBIAN_FRONTEND
 ARG NODE_VERSION
